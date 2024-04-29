@@ -305,11 +305,11 @@ if PRINT_TIME:
 
 ### ...anything visual?
 See program running on my PC... If that does not work, here are some pictures:
-![c=1/2 d=1/2 gomboc](fb39faf591acf230d20abd58e33ff0053f1e380c.png "Gomboc generated with c=1/2 and d=1/2.")
+![c=1/2 d=1/2 gomboc](https://raw.githubusercontent.com/Supergecki/SmoothGombocs_LiaScript/main/picture%20files/c0%2C5d0%2C5.PNG "Gomboc generated with c=1/2 and d=1/2.")
 
-![c=1/2 d=1 gomboc](2851bfa5740bb8691db9ea46514e40ac72a4a7f7.png "Gomboc generated with c=1/2 and d=1.")
+![c=1/2 d=1 gomboc](https://raw.githubusercontent.com/Supergecki/SmoothGombocs_LiaScript/main/picture%20files/c0%2C5d0%2C5.PNG "Gomboc generated with c=1/2 and d=1.")
 
-![c=2 d=1/2 gomboc](6be6a131970df7beeb5810b744361ddd6321e70f.png "Gomboc generated with c=2 and d=1/2.")
+![c=2 d=1/2 gomboc](https://raw.githubusercontent.com/Supergecki/SmoothGombocs_LiaScript/main/picture%20files/c0%2C5d1.PNG "Gomboc generated with c=2 and d=1/2.")
 
 ## And now?
 * Original project includes program to analyze these gomboc structures.
