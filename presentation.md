@@ -318,7 +318,8 @@ See program running on my PC... If that does not work, here are some pictures:
       {{1}}
 **Thank you for your attention and for following me into this little mathematical world!** 
 
-{{2}}
+      {{2}}
+      
 Have fun with this short video of a tortoise behaving like a gomboc...
 !?[gomboc tortoise](https://plus.maths.org/issue52/features/gomboc/Gombocturtle.m4v)
 
