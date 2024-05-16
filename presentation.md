@@ -1,3 +1,5 @@
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/Supergecki/SmoothGombocs_LiaScript/main/presentation.md#1)
+
 # An introduction to smooth Gombocs (by Martin Wille)
 
 ## Disclaimer
@@ -319,7 +321,8 @@ See program running on my PC... If that does not work, here are some pictures:
       {{1}}
 **Thank you for your attention and for following me into this little mathematical world!** 
 
-{{2}}
+      {{2}}
+      
 Have fun with this short video of a tortoise behaving like a gomboc...
 
 !?[gomboc tortoise](https://plus.maths.org/issue52/features/gomboc/Gombocturtle.m4v)
